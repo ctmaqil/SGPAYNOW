@@ -16,7 +16,7 @@ TBC
 
 
 
-![](https://ctmstudios.org/site/wp-content/uploads/2023/02/white-tiktok.png)
+[![](https://ctmstudios.org/site/wp-content/uploads/2023/02/white-tiktok.png)](http://ctmstudios.org "![](https://ctmstudios.org/site/wp-content/uploads/2023/02/white-tiktok.png)")
 
 
 
